@@ -5,7 +5,6 @@ async function getData() {
     return result;
     
 }
-
 function fetchOperation() {
     return new Promise((resolve) => {
         setTimeout(() => {
