@@ -1,0 +1,19 @@
+.flex-box{
+    display: flex;
+    
+}
+
+.flex-box div{
+    background-color: lightblue;
+    margin: 30px;
+    padding: 30px;
+    font-size: 30px;
+}
+
+.flex-item1{
+    flex-grow: 5;
+}
+
+.flex-item2{
+    flex-grow: 2;
+}
